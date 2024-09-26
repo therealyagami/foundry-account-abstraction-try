@@ -12,3 +12,8 @@ docs/
 
 # Dotenv file
 .env
+# Ignore node_modules
+node_modules/
+
+# Ignore ripgrep (adjust the file path if necessary)
+ripgrep/
